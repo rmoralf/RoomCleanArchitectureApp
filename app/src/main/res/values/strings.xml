@@ -1,0 +1,13 @@
+<resources>
+    <string name="appbar_title">Daily Weight</string>
+    <string name="appbar_reset">Reset</string>
+    <string name="appbar_add">New weight</string>
+    <string name="dialog_title">Add new weight</string>
+    <string name="dialog_weight">Weight</string>
+    <string name="dialog_date">Date</string>
+    <string name="dialog_add">Add</string>
+    <string name="dialog_cancel">Cancel</string>
+    <string name="empty_weights">No weights to show</string>
+    <string name="header_date">Date</string>
+    <string name="header_weight">Weight</string>
+</resources>
