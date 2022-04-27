@@ -11,7 +11,7 @@ android {
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.rmoralf.weightcontrol"
+        applicationId "com.rmoralf.roomcleanarchitectureapp"
         minSdk 21
         targetSdk 32
         versionCode 1
@@ -32,11 +32,11 @@ android {
         dev {
             dimension "enviroment"
             applicationIdSuffix ".dev"
-            resValue "string", "app_name", "Weight Control Dev"
+            resValue "string", "app_name", "RoomCleanArchitectureApp Dev"
         }
         pro {
             dimension "enviroment"
-            resValue "string", "app_name", "Weight Control"
+            resValue "string", "app_name", "RoomCleanArchitectureApp"
         }
     }
     compileOptions {
